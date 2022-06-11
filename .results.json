@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-04T17:39:17.980Z",
-    "end": "2022-06-04T17:39:18.309Z",
-    "duration": 329
+    "start": "2022-06-11T11:00:37.267Z",
+    "end": "2022-06-11T11:00:37.709Z",
+    "duration": 442
   },
   "tests": [
     {
@@ -50,7 +50,7 @@
       "title": "removes the first cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveFirstCat() removes the first cat from the cats array",
       "file": "/home/zamzam/Desktop/Development/code/phase0/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -59,7 +59,7 @@
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/home/zamzam/Desktop/Development/code/phase0/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -86,7 +86,7 @@
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/home/zamzam/Desktop/Development/code/phase0/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -135,7 +135,7 @@
       "title": "removes the first cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveFirstCat() removes the first cat from the cats array",
       "file": "/home/zamzam/Desktop/Development/code/phase0/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -144,7 +144,7 @@
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/home/zamzam/Desktop/Development/code/phase0/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -171,7 +171,7 @@
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/home/zamzam/Desktop/Development/code/phase0/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}

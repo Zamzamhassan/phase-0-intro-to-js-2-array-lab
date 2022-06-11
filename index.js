@@ -11,11 +11,11 @@ function destructivelyPrependCat(name){
 }
     
 function destructivelyRemoveLastCat(name){
-    cats.pop();
+    cats.pop(name);
 }
     
 function destructivelyRemoveFirstCat(name){
-    cats.shift()
+    cats.shift(name);
 }
     
 function appendCat(name){
@@ -25,14 +25,11 @@ function appendCat(name){
 function prependCat(name){
     return [name, ...cats];
 }
-
-function removeLastCat(){
+function removeLastCat(cat){
     return cats.slice(0, cats.length -1);
-    
 }
 
 function removeFirstCat(){
     
     return cats.slice(1);
 }
-
